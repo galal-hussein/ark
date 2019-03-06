@@ -1,0 +1,11 @@
+/ark
+/dist
+/.idea
+/.dapper
+/bin
+*.swp
+/.trash-cache
+/trash.lock
+kube_config*
+.vscode
+
